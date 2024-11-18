@@ -1,0 +1,6 @@
+@Dellane_store.API_HostAddress = http://localhost:5074
+
+GET {{Dellane_store.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
